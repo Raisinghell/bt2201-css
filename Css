@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html>
-<h1 style=“font‐size: 40px; color: red;“><head>
+<style type=“text/css”>
+h1 {font‐size: 30px; color: red;}
+h2 {font‐size: 20px; color: blue;}
+</style>
+<h1 style=“font‐size: 10px; color: red;“><head>
 <meta charset="UTF-8">
 </head>
-<body bgcolor="#C11B17">
+<body bgcolor="#A2331C">
   <h1>This is a color.</h1>
-  <p>It is obvious</p>
-  <p>Red means the motivation.</p>
+  <p>This is from a song</p>
+  <p>Rise,the people who refuse to be slaves.</p>
   
 </body>
 </html>
